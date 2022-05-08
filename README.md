@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AITBELLAous</h1>
-<h3 align="center">A passionate Adroid and frontend developer from Morocco</h3>
+<h3 align="center">A passionate Android and frontend developer from Morocco</h3>
 
 
 
