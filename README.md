@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/o_zed99" target="blank"><img src="https://img.shields.io/twitter/follow/o_zed99?logo=twitter&style=for-the-badge" alt="o_zed99" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react** and i m also very intrested in Cybersecurity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
