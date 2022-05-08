@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm AITBELLAous</h1>
 <h3 align="center">A passionate Adroid and frontend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aitbellaouss&label=Profile%20views&color=0e75b6&style=flat" alt="aitbellaouss" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aitbellaouss&label=Profile%20views&color=0e75b6&style=flat" alt="aitbellaouss" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aitbellaouss" alt="aitbellaouss" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/o_zed99" target="blank"><img src="https://img.shields.io/twitter/follow/o_zed99?logo=twitter&style=for-the-badge" alt="o_zed99" /></a> </p>
 
